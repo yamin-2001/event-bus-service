@@ -12,7 +12,7 @@
 	</parent>
 
 	<groupId>com.banking</groupId>
-	<artifactId>kafka-event-service</artifactId>
+	<artifactId>event-bus-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>event-bus-service</name>
 
